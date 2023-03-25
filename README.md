@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - More Solutions URL: [GitHub](https://github.com/Mykaelll)
-- Live Site URL: [GitHub Pages](https://numonu.github.io/results-summary-component)
+- Live Site URL: [GitHub Pages](https://mykaelll.github.io/Frontendmentor-Result-summary/)
 
 ## My process
 
